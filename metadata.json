@@ -1,0 +1,6 @@
+{
+  "name": "업무 인수인계 체크리스트",
+  "description": "업무 인수인계 체크리스트 확인 및 최종 승인자 결재 관리 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
